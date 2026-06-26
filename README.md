@@ -4,3 +4,7 @@ Name : NUR ANIQAH QISTINA BINTI EDDY HERMAN
 Matric Number : 056509
 Programme : Teknologi Komputeran
 Course Expectation : I hope to gain knowlegde and skills in Artificial Intelligence and computer vision.
+
+# Collaborator
+Name : NUR AMBERLYNN AKMAL BINTI KAMAL ARIS
+Date : 26/6/2026
