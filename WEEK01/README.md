@@ -1,15 +1,15 @@
 # Week 1 - Git and GitHub 
 ## Learning Outcomes
--Create a GitHub repository
--Create a branch
--Compare branches
--Add a collaborator
+- Create a GitHub repository
+- Create a branch
+- Compare branches
+- Add a collaborator
 
 ## Practical Activities
--Repository created
--Branch created
--Collaborator added
--README updated
+- Repository created
+- Branch created
+- Collaborator added
+- README updated
 
 ## Reflection
 After learning GitHub,I have a better understanding of how to manage and store code in an organized way. 
